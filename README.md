@@ -90,4 +90,4 @@ print("R2 Score:", r2_score(y_calib, pred))
 
 ## 📄 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+This project is open-source and available under the [MIT License](LICENSE).
